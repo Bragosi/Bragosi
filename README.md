@@ -4,7 +4,7 @@ I’m a Full-Stack Web and Mobile Developer with a strong interest in building s
 I work across the full development stack, creating clean and responsive user interfaces as well as reliable and efficient backend systems. I continuously improve my skills by building real-world projects and learning modern technologies.
 
 ---
-# What I’m working on: 
+## What I’m working on: 
 
 1. Web applications using React, Next.js, and TypeScript
 
