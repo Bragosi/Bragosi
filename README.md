@@ -1,4 +1,4 @@
-Hi, I’m Oladejo Boluwatife Oluwatobi (Bragosi)
+## Hi, I’m Oladejo Boluwatife Oluwatobi (Bragosi)
 
 I’m a Full-Stack Web and Mobile Developer with a strong interest in building scalable, user-focused applications for web and mobile platforms.
 I work across the full development stack, creating clean and responsive user interfaces as well as reliable and efficient backend systems. I continuously improve my skills by building real-world projects and learning modern technologies.
