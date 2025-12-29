@@ -6,18 +6,18 @@ I work across the full development stack, creating clean and responsive user int
 ---
 ## What I’m working on: 
 
-1. Web applications using React, Next.js, and TypeScript
+- Web applications using React, Next.js, and TypeScript
 
-2. Mobile applications with React Native and Expo
+- Mobile applications with React Native and Expo
 
-3. Backend development using Node.js, Express, and MongoDB
+- Backend development using Node.js, Express, and MongoDB
 
 I’m open to collaborating on projects that:
-1. Solve real-world problems
+- Solve real-world problems
 
-2. Improve my technical skills
+- Improve my technical skills
 
-3. Use modern web or mobile technologies
+- Use modern web or mobile technologies
 
 You can explore my repositories to see the projects I’ve worked on.
 
